@@ -104,17 +104,19 @@ I believe that becoming a good engineer means understanding the fundamentals, ex
 
 ## 📊 GitHub Statistics
 
+
+
+
 <div align="center">
 
-<img height="165"
-src="https://github-stats-extended.vercel.app/api?username=IyedMadhkour&show_icons=true&theme=tokyonight&hide_border=true"
-alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=IyedMadhkour&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
-<img height="165"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=IyedMadhkour&layout=compact&theme=tokyonight&hide_border=true"
-alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IyedMadhkour&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=IyedMadhkour&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
+
 
 ---
 
